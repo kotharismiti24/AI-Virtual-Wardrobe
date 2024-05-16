@@ -1,4 +1,4 @@
-# AI-Virtual Wardrobe Project
+# AI-Virtual Wardrobe
 
 ## Overview
 The AI-Virtual Wardrobe project leverages computer vision techniques and artificial intelligence to transform the process of trying on clothes and accessories. This project aims to enhance and automate the virtual try-on experience, providing users with a realistic and interactive way to explore their personal style and customize their wardrobe.
