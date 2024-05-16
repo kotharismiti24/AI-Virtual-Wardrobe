@@ -25,5 +25,24 @@ The AI-Virtual Wardrobe project marks a significant advancement in personal styl
 3. **Upload Accessory:** Depending on the selected feature, upload the necessary accessory.
 4. **View and Share Results:** View the final result, with options to download or share it on social media.
 
+## Results
+**Cloth Try On Output**
+![Cloth-Try-On-Output](results/clotho.png)
+**Necklace Try On Output**
+![Necklace-Try-On-Output](results/necko.png)
+**Earrings Try On Output**
+![Earrings-Try-On-Output](results/earo.png)
+**Glasses Try On Output**
+![Glasses-Try-On-Output](results/glasso.png)
+**Hairwig Try On Output**
+![Hairwig-Try-On-Output](results/hairo.png)
+**Lipstick Try On Output**
+![Lipcolor-Try-On-Output](results/lipo.png)
+**Web App Interface**
+![website-home](results/w1.png)
+![website-try-on](results/w2.png)
+![website-how-to-use](results/website.png)
+
+
 ## Conclusion
 The AI-Virtual Wardrobe project showcases the transformative power of computer vision and AI in the fashion industry. By providing a comprehensive and interactive virtual try-on experience, it helps users visualize clothing and accessories with accuracy, ultimately enhancing their shopping experience and personal style exploration.
